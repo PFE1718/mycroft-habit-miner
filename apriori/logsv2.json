@@ -1,0 +1,310 @@
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-01 01:56:32.968361"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 5 minute", "parameters": {"length": "5 minute"}, "datetime": "2018-01-01 09:00:00.000000"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-01 10:03:04.659752"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-01 10:38:48.293424"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-01 10:57:35.450874"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-01 12:59:17.390976"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-01 13:05:49.693693"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mob psycho manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mob psycho manga"}, "datetime": "2018-01-01 23:55:43.259212"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mob psycho anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mob psycho anime"}, "datetime": "2018-01-01 23:57:43.259411"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-02 1:59:49.109694"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-02 02:27:10.768744"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-02 08:16:03.460876"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-02 09:05:49.290109"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about AEB", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "aeb"}, "datetime": "2018-01-02 10:04:43.259211"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about Korea", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "korea"}, "datetime": "2018-01-02 10:05:43.259211"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-02 11:03:56.245434"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Paris", "parameters": {"Weather": "weather"}, "datetime": "2018-01-02 12:24:38.292115"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-02 15:10:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-02 15:11:12.290983"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-02 15:12:19.435609"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-03 12:35:59.644944"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open itunes", "parameters": {"LaunchKeyword": "open", "Application": "itunes"}, "datetime": "2018-01-03 13:05:49.193600"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-03 13:56:32.968361"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-03 13:57:31.922361"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-03 14:16:03.460876"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-03 15:02:49.093993"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-03 15:03:19.049693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-03 15:04:48.623495"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-03 15:33:46.145439"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-03 15:37:10.768744"}
+{"type": "-8332424917631410511:MathStartIntent", "utterance": "do some math", "parameters": {"MathStart": "do some math"}, "datetime": "2018-01-04 07:38:31.835414"}
+{"type": "-8332424917631410511:FirstNumberIntent", "utterance": "50", "parameters": {"Num1": "50", "MathContext": ""}, "datetime": "2018-01-04 07:39:35.282653"}
+{"type": "-8332424917631410511:SecondNumberIntent", "utterance": "50", "parameters": {"FirstNumberContext": "", "Num2": "50"}, "datetime": "2018-01-04 07:40:37.521511"}
+{"type": "-8332424917631410511:CalculateIntent", "utterance": "add", "parameters": {"Calculate": "add", "SecondNumberContext": ""}, "datetime": "2018-01-04 07:41:38.892920"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-04 11:02:19.693492"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-04 15:05:49.049692"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-04 15:08:48.233434"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-04 17:27:10.768744"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-04 17:45:49.102693"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about sleep", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "sleep"}, "datetime": "2018-01-04 23:55:43.259211"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-05 08:02:59.344072"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-05 10:03:04.659752"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-05 15:05:49.693693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-05 15:06:49.693693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-05 15:07:49.693693"}
+{"type": "-4632936805969674378:UpdateConfigurationIntent", "utterance": "configuration update", "parameters": {"ConfigurationSkillKeyword": "configuration", "ConfigurationSkillUpdateVerb": "update"}, "datetime": "2018-01-05 16:03:11.238135"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-05 17:03:22.749718"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install daily meditation", "parameters": {"Install": "install"}, "datetime": "2018-01-05 19:03:34.168129"}
+{"type": "3098019883183322843:WhatAreYouIntent", "utterance": "what are you", "parameters": {"WhatAreYouKeyword": "what are you"}, "datetime": "2018-01-05 20:04:14.088597"}
+{"type": "7419997908324459298:StockPriceIntent", "utterance": "what is the stock price of Autodesk", "parameters": {"StockPriceKeyword": "stock price", "Company": "autodesk"}, "datetime": "2018-01-05 22:04:25.868716"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-06 08:49:48.908492"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-06 09:27:13.306503"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-06 15:01:49.688883"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-06 15:04:19.223683"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-06 15:07:48.993492"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-06 22:02:42.145439"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-06 22:03:16.245439"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-06 22:07:16.949939"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about Biomega", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "biomega"}, "datetime": "2018-01-06 23:04:43.259211"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about BTS", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "bts"}, "datetime": "2018-01-06 23:05:43.259211"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 1 minute", "parameters": {"length": "1 minute"}, "datetime": "2018-01-07 09:05:26.506919"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-07 10:27:10.768744"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-07 11:17:16.021811"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-07 12:03:22.749718"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about shingeki no kyojin manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "shingeki no kyojin manga"}, "datetime": "2018-01-07 13:55:43.259242"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about shingeki no kyojin anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "shingeki no kyojin anime"}, "datetime": "2018-01-07 13:57:43.252415"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-07 14:00:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-07 15:02:49.233643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-07 15:03:19.693116"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-07 15:04:48.293424"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-08 05:35:59.644944"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open itunes", "parameters": {"LaunchKeyword": "open", "Application": "itunes"}, "datetime": "2018-01-08 07:05:49.193600"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-08 08:01:32.968361"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about AEB", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "aeb"}, "datetime": "2018-01-08 08:44:43.259211"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-08 08:56:03.460876"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-08 09:01:49.633343"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 5 minute", "parameters": {"length": "5 minute"}, "datetime": "2018-01-08 09:00:00.000000"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-08 11:17:16.021811"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-08 12:34:46.145439"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-08 17:37:12.768544"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-09 08:16:03.460876"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-09 09:27:10.768744"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about Kim Taehyung", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "kim taehyung"}, "datetime": "2018-01-09 10:05:43.259211"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Paris", "parameters": {"Weather": "weather"}, "datetime": "2018-01-09 12:24:38.292115"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-09 15:06:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-09 15:07:12.290983"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-09 15:09:19.435609"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-09 18:57:31.922361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-09 19:05:49.290109"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-09 21:03:56.245434"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-10 12:56:32.968361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-10 15:09:49.093993"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-10 15:10:19.049693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-10 15:12:48.623495"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-10 19:57:35.450874"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 1 minute", "parameters": {"length": "1 minute"}, "datetime": "2018-01-10 20:05:26.506919"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-10 23:27:10.768744"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-10 23:32:51.482746"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-10 23:42:46.145439"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-10 23:53:04.659752"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-11 07:03:22.749718"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install daily meditation", "parameters": {"Install": "install"}, "datetime": "2018-01-11 09:03:34.168129"}
+{"type": "3098019883183322843:WhatAreYouIntent", "utterance": "what are you", "parameters": {"WhatAreYouKeyword": "what are you"}, "datetime": "2018-01-11 10:04:14.088597"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-11 13:02:59.344072"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-11 14:03:04.659752"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-11 11:01:49.693695"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-11 14:06:59.344072"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-11 15:00:49.693000"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-11 15:02:49.593443"}
+{"type": "-4632936805969674378:UpdateConfigurationIntent", "utterance": "configuration update", "parameters": {"ConfigurationSkillKeyword": "configuration", "ConfigurationSkillUpdateVerb": "update"}, "datetime": "2018-01-11 16:03:11.238135"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about season 2 of nanatsu no taizai", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "season 2 of nanatsu no taizai"}, "datetime": "2018-01-12 12:05:26.296876"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about birmanie", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "birmanie"}, "datetime": "2018-01-12 12:05:36.859064"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-12 13:21:14.110893"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-12 13:59:17.390976"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-12 14:05:49.693693"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-12 14:17:16.021811"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mushroom", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mushroom"}, "datetime": "2018-01-12 14:45:11.291749"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-12 15:02:49.233643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-12 15:05:19.693116"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-12 15:07:48.293424"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about inuyashiki manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "inuyashiki manga"}, "datetime": "2018-01-13 03:25:43.259242"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about inuyashiki anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "inuyashiki anime"}, "datetime": "2018-01-13 03:37:41.254415"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-13 04:10:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-13 15:05:49.049692"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-13 15:06:19.693492"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-13 15:08:48.233434"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-13 19:27:10.768744"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open steam", "parameters": {"LaunchKeyword": "open", "Application": "steam"}, "datetime": "2018-01-13 22:45:49.102693"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about sleep", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "sleep"}, "datetime": "2018-01-13 23:55:43.259211"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about love", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "love"}, "datetime": "2018-01-13 23:59:43.259211"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-14 08:49:48.908552"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-14 15:09:49.688883"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-14 15:10:19.223683"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-14 15:11:48.993492"}
+{"type": "-8332424917631410511:MathStartIntent", "utterance": "do some math", "parameters": {"MathStart": "do some math"}, "datetime": "2018-01-14 19:38:31.835414"}
+{"type": "-8332424917631410511:FirstNumberIntent", "utterance": "60", "parameters": {"Num1": "60", "MathContext": ""}, "datetime": "2018-01-14 19:39:35.282653"}
+{"type": "-8332424917631410511:SecondNumberIntent", "utterance": "60", "parameters": {"FirstNumberContext": "", "Num2": "60"}, "datetime": "2018-01-14 19:40:37.521511"}
+{"type": "-8332424917631410511:CalculateIntent", "utterance": "add", "parameters": {"Calculate": "add", "SecondNumberContext": ""}, "datetime": "2018-01-14 19:41:38.892920"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gantz manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gantz manga"}, "datetime": "2018-01-14 22:15:43.259442"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gantz anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gantz anime"}, "datetime": "2018-01-14 22:28:41.254415"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-14 23:10:49.109694"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about skool luv affair", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "skool luv affair"}, "datetime": "2018-01-15 08:05:43.259211"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Paris", "parameters": {"Weather": "weather"}, "datetime": "2018-01-15 08:24:38.292115"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about ratatat", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "ratatat"}, "datetime": "2018-01-15 08:45:43.259211"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-15 08:57:12.290983"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 5 minute", "parameters": {"length": "5 minute"}, "datetime": "2018-01-15 09:00:00.000000"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-15 11:57:31.922361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open molotov", "parameters": {"LaunchKeyword": "open", "Application": "molotov"}, "datetime": "2018-01-15 18:05:49.290109"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-15 22:03:56.245434"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-15 23:56:32.968361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-16 05:12:19.435609"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-16 12:29:59.644944"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open itunes", "parameters": {"LaunchKeyword": "open", "Application": "itunes"}, "datetime": "2018-01-16 13:09:49.190601"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-16 13:46:32.968361"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-16 13:49:31.922361"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-16 14:19:03.422876"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-16 15:01:49.093900"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-16 15:03:19.042693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-16 15:09:48.623345"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-16 20:33:46.145999"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 4 minute", "parameters": {"length": "4 minute"}, "datetime": "2018-01-17 09:05:26.506919"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-17 09:17:16.021811"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-17 10:27:10.768744"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about netflix", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "netflix"}, "datetime": "2018-01-17 12:15:11.291749"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-17 15:03:22.749718"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mycroft", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mycroft"}, "datetime": "2018-01-17 15:05:36.859064"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-17 15:07:49.233643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-17 15:08:19.693116"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-17 15:10:48.293424"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-17 17:21:14.110893"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-18 11:02:19.693492"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-18 15:00:49.049692"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-18 15:09:48.233434"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-18 17:27:10.768744"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-18 18:45:49.102693"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-18 21:02:59.344072"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-18 22:03:04.659752"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about fma manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "fma manga"}, "datetime": "2018-01-18 22:05:43.259912"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about fma anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "fma anime"}, "datetime": "2018-01-18 22:17:44.259413"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-18 22:30:49.109694"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-19 08:57:31.922361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-19 09:05:49.290109"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-19 10:03:56.245434"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-19 12:52:32.934361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-19 15:02:49.093993"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-19 15:08:19.049693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-19 15:09:48.623495"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-19 19:59:35.454374"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-19 22:26:10.768454"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-19 22:27:10.768454"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-20 11:03:04.659752"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-20 11:06:59.344072"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-20 15:02:49.693040"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-20 15:04:49.693695"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-20 15:06:39.593443"}
+{"type": "-4632936805969674378:UpdateConfigurationIntent", "utterance": "configuration update", "parameters": {"ConfigurationSkillKeyword": "configuration", "ConfigurationSkillUpdateVerb": "update"}, "datetime": "2018-01-20 16:03:11.238135"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about berlin", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "berlin"}, "datetime": "2018-01-20 20:05:26.296876"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-20 21:01:14.110893"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about loic souetre", "parameters": {"WikipediaKeyword": "tell me loic souetre", "ArticleTitle": "birmanie"}, "datetime": "2018-01-20 23:05:36.859064"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-20 23:39:17.390976"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-21 03:16:03.460876"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-21 15:07:39.109234"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-21 15:08:12.222983"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-21 15:09:19.432634"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-21 15:10:49.292349"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-21 18:03:22.749718"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-21 18:45:21.742312"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-21 21:03:56.245434"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Toronto", "parameters": {"Weather": "weather"}, "datetime": "2018-01-21 22:24:38.292115"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-21 22:35:59.644944"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 5 minute", "parameters": {"length": "5 minute"}, "datetime": "2018-01-22 09:00:00.000000"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-22 10:05:12.693346"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-22 11:08:48.193434"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-22 14:57:35.450874"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-22 15:59:17.390976"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-22 16:05:49.693693"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-22 22:03:04.659752"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-22 23:27:10.768744"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-22 23:34:51.482746"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-22 23:42:46.145439"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-23 01:03:56.245434"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-23 03:56:32.968361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-23 15:03:49.093993"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-23 15:04:19.049693"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-23 15:10:42.623494"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-23 16:27:15.450874"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 1 minute", "parameters": {"length": "1 minute"}, "datetime": "2018-01-23 18:05:26.506919"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-23 19:27:10.768732"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-23 21:32:51.482656"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-23 22:22:46.145639"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-24 15:02:49.693000"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-24 15:05:49.693695"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-24 15:08:19.493443"}
+{"type": "-4632936805969674378:UpdateConfigurationIntent", "utterance": "configuration update", "parameters": {"ConfigurationSkillKeyword": "configuration", "ConfigurationSkillUpdateVerb": "update"}, "datetime": "2018-01-24 16:03:11.238135"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gintama manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gintama manga"}, "datetime": "2018-01-24 19:05:26.296876"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gintama anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gintama anime"}, "datetime": "2018-01-24 19:07:36.859064"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-24 20:01:49.109694"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-24 23:21:14.110893"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-24 23:56:59.344072"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-24 23:57:04.659752"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-25 08:57:31.922361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-25 09:05:49.290109"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-25 11:03:13.049693"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-25 11:03:56.245434"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-25 12:26:32.968361"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-25 15:03:49.093993"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-25 15:12:28.634495"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install desktop launcher", "parameters": {"Install": "install"}, "datetime": "2018-01-25 17:57:35.450874"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 2 minute", "parameters": {"length": "2 minute"}, "datetime": "2018-01-25 21:05:26.506919"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-25 23:07:13.763444"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-26 01:12:28.634495"}
+{"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-26 10:03:04.659752"}
+{"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-26 11:06:59.344072"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-26 15:00:49.233643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-26 15:03:19.693126"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-26 15:05:28.293434"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-26 15:35:59.644944"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about solanin manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "solanin manga"}, "datetime": "2018-01-26 21:45:26.296876"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about solanin anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "solanin anime"}, "datetime": "2018-01-26 21:48:36.859064"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-26 22:08:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-27 15:02:49.049432"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-27 15:06:19.693292"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-27 15:09:41.233434"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-27 18:17:10.328744"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-27 19:45:49.102693"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-27 21:03:16.245439"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-27 21:07:16.942939"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about facebook", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "facebook"}, "datetime": "2018-01-27 23:04:43.259211"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about chanyeol", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "chanyeol"}, "datetime": "2018-01-27 23:09:41.259255"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 1 minute", "parameters": {"length": "1 minute"}, "datetime": "2018-01-27 23:15:26.506219"}
+{"type": "-8332424917631410511:MathStartIntent", "utterance": "do some math", "parameters": {"MathStart": "do some math"}, "datetime": "2018-01-28 09:38:31.835411"}
+{"type": "-8332424917631410511:FirstNumberIntent", "utterance": "61", "parameters": {"Num1": "61", "MathContext": ""}, "datetime": "2018-01-28 09:39:35.212653"}
+{"type": "-8332424917631410511:SecondNumberIntent", "utterance": "62", "parameters": {"FirstNumberContext": "", "Num2": "62"}, "datetime": "2018-01-28 09:40:37.521511"}
+{"type": "-8332424917631410511:CalculateIntent", "utterance": "add", "parameters": {"Calculate": "add", "SecondNumberContext": ""}, "datetime": "2018-01-28 09:41:38.892920"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about pop", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "pop"}, "datetime": "2018-01-28 13:04:43.259211"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-28 13:27:10.768744"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-28 15:04:49.049432"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-28 15:06:19.693292"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-28 15:08:41.233434"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-28 17:17:17.777777"}
+{"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Paris", "parameters": {"Weather": "weather"}, "datetime": "2018-01-29 04:15:38.292115"}
+{"type": "7419997908324459298:StockPriceIntent", "utterance": "what is the stock price of Autodesk", "parameters": {"StockPriceKeyword": "stock price", "Company": "autodesk"}, "datetime": "2018-01-29 05:04:25.868716"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-29 09:04:12.290983"}
+{"type": "1853426431146383159:set.time.intent", "utterance": "set alarm in 5 minute", "parameters": {"length": "5 minute"}, "datetime": "2018-01-29 09:00:00.000000"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-29 11:27:31.922361"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-29 17:33:22.744318"}
+{"type": "7920932972851018044:InstallIntent", "utterance": "install daily meditation", "parameters": {"Install": "install"}, "datetime": "2018-01-29 19:33:34.168129"}
+{"type": "3098019883183322843:WhatAreYouIntent", "utterance": "what are you", "parameters": {"WhatAreYouKeyword": "what are you"}, "datetime": "2018-01-29 20:34:14.088597"}
+{"type": "7419997908324459298:StockPriceIntent", "utterance": "what is the stock price of Autodesk", "parameters": {"StockPriceKeyword": "stock price", "Company": "autodesk"}, "datetime": "2018-01-29 21:04:25.868716"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-29 22:49:48.908492"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about epiphany", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "epiphany"}, "datetime": "2018-01-30 12:55:11.291749"}
+{"type": "7287314279880443391:NPRNewsIntent", "utterance": "what's the latest news", "parameters": {"NPRNewsKeyword": "news"}, "datetime": "2018-01-30 13:03:22.749718"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about serendipity", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "serendipity"}, "datetime": "2018-01-30 13:05:36.859064"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-30 15:08:49.233643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-30 15:09:19.693116"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-30 15:11:48.256424"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-30 19:21:14.110893"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open fraise", "parameters": {"LaunchKeyword": "open", "Application": "fraise"}, "datetime": "2018-01-30 20:00:49.049692"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-30 20:02:19.693492"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open itunes", "parameters": {"LaunchKeyword": "open", "Application": "itunes"}, "datetime": "2018-01-30 20:09:48.233434"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about life", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "life"}, "datetime": "2018-01-31 04:05:11.291749"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about everything", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "everything"}, "datetime": "2018-01-31 04:05:26.296876"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about you", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "you"}, "datetime": "2018-01-31 04:05:36.859064"}
+{"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-31 15:00:14.110893"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-31 15:02:49.222643"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-31 15:03:09.693133"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-31 15:05:58.293409"}
+{"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-31 17:35:59.644944"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open itunes", "parameters": {"LaunchKeyword": "open", "Application": "itunes"}, "datetime": "2018-01-31 17:45:49.193980"}
+{"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-31 18:10:10.000001"}
