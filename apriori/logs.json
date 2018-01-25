@@ -7,7 +7,7 @@
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open safari", "parameters": {"LaunchKeyword": "open", "Application": "safari"}, "datetime": "2018-01-01 13:05:49.693693"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mob psycho manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mob psycho manga"}, "datetime": "2018-01-01 23:55:43.259212"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about mob psycho anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "mob psycho anime"}, "datetime": "2018-01-01 23:57:43.259411"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-02 1:59:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-02 23:59:49.109694"}
 {"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-02 02:27:10.768744"}
 {"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what is the weather", "parameters": {"Weather": "weather"}, "datetime": "2018-01-02 08:16:03.460876"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-02 09:05:49.290109"}
@@ -119,8 +119,8 @@
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-12 15:05:19.693116"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-12 15:07:48.293424"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about inuyashiki manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "inuyashiki manga"}, "datetime": "2018-01-13 03:25:43.259242"}
-{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about inuyashiki anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "inuyashiki anime"}, "datetime": "2018-01-13 03:37:41.254415"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-13 04:10:49.109694"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about inuyashiki anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "inuyashiki anime"}, "datetime": "2018-01-13 03:27:41.254415"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-13 03:30:49.109694"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-13 15:05:49.049692"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-13 15:06:19.693492"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-13 15:08:48.233434"}
@@ -137,8 +137,8 @@
 {"type": "-8332424917631410511:SecondNumberIntent", "utterance": "60", "parameters": {"FirstNumberContext": "", "Num2": "60"}, "datetime": "2018-01-14 19:40:37.521511"}
 {"type": "-8332424917631410511:CalculateIntent", "utterance": "add", "parameters": {"Calculate": "add", "SecondNumberContext": ""}, "datetime": "2018-01-14 19:41:38.892920"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gantz manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gantz manga"}, "datetime": "2018-01-14 22:15:43.259442"}
-{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gantz anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gantz anime"}, "datetime": "2018-01-14 22:28:41.254415"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-14 23:10:49.109694"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gantz anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gantz anime"}, "datetime": "2018-01-14 22:18:41.254415"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-14 22:20:49.109694"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about skool luv affair", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "skool luv affair"}, "datetime": "2018-01-15 08:05:43.259211"}
 {"type": "1724922955324666750:CurrentWeatherIntent", "utterance": "what's the weather like in Paris", "parameters": {"Weather": "weather"}, "datetime": "2018-01-15 08:24:38.292115"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about ratatat", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "ratatat"}, "datetime": "2018-01-15 08:45:43.259211"}
@@ -176,8 +176,8 @@
 {"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-18 21:02:59.344072"}
 {"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-18 22:03:04.659752"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about fma manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "fma manga"}, "datetime": "2018-01-18 22:05:43.259912"}
-{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about fma anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "fma anime"}, "datetime": "2018-01-18 22:17:44.259413"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-18 22:30:49.109694"}
+{"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about fma anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "fma anime"}, "datetime": "2018-01-18 22:07:44.259413"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-18 22:10:49.109694"}
 {"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-19 08:57:31.922361"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open deezer", "parameters": {"LaunchKeyword": "open", "Application": "deezer"}, "datetime": "2018-01-19 09:05:49.290109"}
 {"type": "3716866579841658294:JokingIntent", "utterance": "joke", "parameters": {"Joke": "joke"}, "datetime": "2018-01-19 10:03:56.245434"}
@@ -234,7 +234,7 @@
 {"type": "-4632936805969674378:UpdateConfigurationIntent", "utterance": "configuration update", "parameters": {"ConfigurationSkillKeyword": "configuration", "ConfigurationSkillUpdateVerb": "update"}, "datetime": "2018-01-24 16:03:11.238135"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gintama manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gintama manga"}, "datetime": "2018-01-24 19:05:26.296876"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about gintama anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "gintama anime"}, "datetime": "2018-01-24 19:07:36.859064"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-24 20:01:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-24 19:08:49.109694"}
 {"type": "8770575501228139053:HelloWorldIntent", "utterance": "greetings", "parameters": {"HelloWorldKeyword": "greetings"}, "datetime": "2018-01-24 23:21:14.110893"}
 {"type": "-1961473466980545110:IPIntent", "utterance": "what is your ip address", "parameters": {"IP": "IP address", "query": "what is"}, "datetime": "2018-01-24 23:56:59.344072"}
 {"type": "-9122298613994414193:AudioRecordSkillIntent", "utterance": "record", "parameters": {"AudioRecordSkillKeyword": "record"}, "datetime": "2018-01-24 23:57:04.659752"}
@@ -257,7 +257,7 @@
 {"type": "-7077859893790634714:SpeakIntent", "utterance": "what time is it", "parameters": {"TimeKeyword": "time", "QueryKeyword": "what"}, "datetime": "2018-01-26 15:35:59.644944"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about solanin manga", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "solanin manga"}, "datetime": "2018-01-26 21:45:26.296876"}
 {"type": "-6176378566790443933:WikipediaIntent", "utterance": "tell me about solanin anime", "parameters": {"WikipediaKeyword": "tell me about", "ArticleTitle": "solanin anime"}, "datetime": "2018-01-26 21:48:36.859064"}
-{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-26 22:08:49.109694"}
+{"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open vlc", "parameters": {"LaunchKeyword": "open", "Application": "vlc"}, "datetime": "2018-01-26 21:50:49.109694"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open atom", "parameters": {"LaunchKeyword": "open", "Application": "atom"}, "datetime": "2018-01-27 15:02:49.049432"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open spotify", "parameters": {"LaunchKeyword": "open", "Application": "spotify"}, "datetime": "2018-01-27 15:06:19.693292"}
 {"type": "-4359987462241748114:LaunchDesktopApplicationIntent", "utterance": "open firefox", "parameters": {"LaunchKeyword": "open", "Application": "firefox"}, "datetime": "2018-01-27 15:09:41.233434"}

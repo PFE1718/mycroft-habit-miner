@@ -3,8 +3,8 @@ from datetime import datetime, timedelta
 from apriori import runApriori, dataFromFile
 
 
-def get_habits(logs_file_path='logs.json', min_supp = 0.06):
-    hashes = []
+def get_habits(logs_file_path='logs.json', min_supp = 0.01, min_confidence = 0.8):
+    hashes_temp = []
     table_csv = []
     dateTimeObj0 = datetime.strptime('2018-01-01 00:00:00.0', '%Y-%m-%d %H:%M:%S.%f')
 
@@ -18,13 +18,13 @@ def get_habits(logs_file_path='logs.json', min_supp = 0.06):
             del data['datetime']
             hash = hashlib.md5(json.dumps(data)).hexdigest()
 
-            if delta > timedelta(minutes=3):
-                table_csv.append(hashes)
-                hashes = []
-                hashes.append(hash)
+            if delta > timedelta(minutes=5):
+                table_csv.append(hashes_temp)
+                hashes_temp = []
+                hashes_temp.append(hash)
                 dateTimeObj0 = date_time_obj1
             else :
-                hashes.append(hash)
+                hashes_temp.append(hash)
 
     del table_csv[0]
 
@@ -36,30 +36,42 @@ def get_habits(logs_file_path='logs.json', min_supp = 0.06):
 
     in_file = dataFromFile('inputApriori.csv')
 
-    intents, rules = runApriori(in_file, min_supp, 0.5)
+    intents, rules = runApriori(in_file, min_supp, min_confidence)
 
-    habits_hash = []
+    # modify a bit the rules and sort the tuples in it
+    hashes_temp = []
+    for rule in rules:
+        hash = rule[0][0] + rule[0][1]
+        hashes_temp.append(sorted(hash))
 
-    # if we notice a group of intents, we add them to the habits
-    for item in intents:
-        if len(item[0]) > 1:
-            habits_hash.append(item[0])
+    # this is to remove duplicates
+    hashes = []
+    for tuple in hashes_temp:
+        if tuple not in hashes:
+            hashes.append(tuple)
 
-    habits_clear = []
-    habit_clear = []
 
-    # hash logs to clear logs
-    for habitHash in habits_hash:
-        for intent in habitHash:
+    habits = []
+    habit = []
+    for hash in hashes:
+        for intent in hash:
             with open(logs_file_path) as json_data:
                 for line in json_data:
                     data = json.loads(line)
                     del data['datetime']
                     hash = hashlib.md5(json.dumps(data)).hexdigest()
                     if hash == intent:
-                        habit_clear.append(json.dumps(data))
+                        habit.append(json.dumps(data))
                         break
-        habits_clear.append(habit_clear)
-        habit_clear = []
+        habits.append(habit)
+        habit = []
 
-    return habits_clear
+    # for habit in habits:
+    #     for intent in habit:
+    #         intent = json.loads(intent)['utterance']
+    #         del intent['utterance']
+
+    for line in habits:
+        print (line)
+
+get_habits()
