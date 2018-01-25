@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from apriori import runApriori, dataFromFile
 
 
-def get_habits(logs_file_path, min_supp):
+def get_habits(logs_file_path='logs.json', min_supp = 0.06):
     hashes = []
     table_csv = []
     dateTimeObj0 = datetime.strptime('2018-01-01 00:00:00.0', '%Y-%m-%d %H:%M:%S.%f')
@@ -18,7 +18,7 @@ def get_habits(logs_file_path, min_supp):
             del data['datetime']
             hash = hashlib.md5(json.dumps(data)).hexdigest()
 
-            if delta > timedelta(minutes=5):
+            if delta > timedelta(minutes=3):
                 table_csv.append(hashes)
                 hashes = []
                 hashes.append(hash)
